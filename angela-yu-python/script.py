@@ -6,5 +6,6 @@ def SayHi():
   print("A function that returns Hellow world")
   
 SayHi()
-
+for of loops
+while loops
 
