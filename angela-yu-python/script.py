@@ -9,3 +9,5 @@ SayHi()
 for of loops
 while loops
 
+if (name == "David Hype"):
+  print(name)
